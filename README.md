@@ -2,7 +2,7 @@
 # Fake News Classifier Using LSTM 
 
 To develop a model to identify whether an article might be fake news or not
-using Long Short Term-Menory(LSTM) networks.
+using Long Short Term-Memory(LSTM) networks.
 
 The dataset was taken from kaggle : https://www.kaggle.com/c/fake-news/data
 
